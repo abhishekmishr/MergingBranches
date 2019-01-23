@@ -3,4 +3,7 @@
 void main()
 {
 printf("hello Maaau");
+printf("hello Maaau2");
+printf("hello Maaau2");
+
 }
